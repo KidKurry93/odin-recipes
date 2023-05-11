@@ -1,0 +1,12 @@
+.page-title {
+    color: navy;
+    background-color: rgb(136, 158, 223);
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+a {
+    color: darkslategray;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
