@@ -1,0 +1,20 @@
+/* Recipe Styling */
+.recipe-name {
+    color: darkred;
+    background-color: rgb(223, 136, 143);
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: auto;
+}
+
+.sub-heading {
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-decoration: underline;
+}
